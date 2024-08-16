@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsWMXOoX74yFfIb+uZmQFUBCq0LREcdAUIWAN1alH8MCy6XLu3je8f5H4NZr30yRcZNZOzbl2qk+lkk+yKaH9w==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\TestProject\\PLI\\PLI\\PLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xiao\\.nuget\\packages\\gremit\\3.5.1\\gremit.3.5.1.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

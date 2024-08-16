@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CXiao_005CDesktop_005CUpdate_005FRK_005F752_005F916_005F8805_005FV2_002E8_005F231030_005FV1_002E9_005C8805PH_005FUpdateTool_005FV1_002E20_005F20230920_002Eexe/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CXiao_005CDesktop_005CWeChatAppEx_002Eexe/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Xiao\.nuget\packages\microsoft.netcore.app.ref\6.0.32\ref\net6.0\System.ComponentModel.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Xiao\.nuget\packages\microsoft.netcore.app.ref\6.0.32\ref\net6.0\System.ObjectModel.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
